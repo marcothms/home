@@ -1,2 +1,6 @@
 theme: jekyll-theme-minimal
-title: "Marco Thomas"
+logo: /assets/logo.png
+title: Marco Thomas
+links:
+  github: https://github.com/marcothms
+  twitter: https://twitter.com/marco_thms
