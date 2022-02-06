@@ -1,11 +1,11 @@
 ## About me
 
 Hello, I'm Marco _MarcMK_ Thomas, a software development student from Munich, Germany.
-I spend most of my time learning new software stuff, gaming or building a new mechanical keyboard.
+I spend most of my time learning new software stuff,
+gaming or building a new mechanical keyboard.
 
 ### Keyboards
-Most of my build will be on my twitter, because it's a hassle to maintain the
-images in some place.
+[Here](./keebs.md) I have a collection and some trivia about my keebs.
 Linear switches all the way!
 
 ### Software development
@@ -19,10 +19,12 @@ WIP
 ## External
 
 ### GitHub
-[This]({{ site.links.github }}) is where my code is stored. Feel free to check it out!
+[This]({{ site.links.github }}) is where my code is stored.
+Feel free to check it out!
 
 ### Twitter
-Somewhat semi-active on [Twitter]({{ site.links.twitter }}), but mostly just a storage for my keeb-builds.
+Somewhat semi-active on [Twitter]({{ site.links.twitter }}), just DM me here if
+you need something.
 
 ### Mail
 WIP
