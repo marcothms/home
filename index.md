@@ -18,6 +18,14 @@ WIP
 
 ## External
 
-* [GitHub]({{ site.links.github }})
-* [Twitter]({{ site.links.twitter }})
-* Mail: WIP
+### GitHub
+[This]({{ site.links.github }}) is where my code is stored. Feel free to check it out!
+
+### Twitter
+Somewhat semi-active on [Twitter]({{ site.links.twitter }}), but mostly just a storage for my keeb-builds.
+
+### Mail
+WIP
+
+### CV
+WIP
