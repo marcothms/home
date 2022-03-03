@@ -11,7 +11,7 @@ and _DROP PBT Blank Gradient caps_.
 ![anne2](./assets/keebs/anne2.jpg)
 
 #### DZ60
-My first DIY keyboard with _Trybosys_ lubed _Gateron Yellows_ and _GMK Noel_.
+My first DIY keyboard with _Trybosys_ lubed _Gateron Yellows_ with _GMK Noel_.
 Whilst not being perfect in the slightest, I'm really proud how it turned out.
 
 ![noel](./assets/keebs/dznoel.jpg)
