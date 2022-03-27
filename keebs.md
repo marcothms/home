@@ -2,6 +2,7 @@
 Ever since I bought my first keeb, I'm in love with them and can never go back
 to a normal pre-built one.
 But I'm just a beginner, so go easy on me.
+Each sub-group is sorted in the acquisition date.
 
 ### 60%
 #### Anne Pro 2
@@ -11,10 +12,17 @@ and _DROP PBT Blank Gradient caps_.
 ![anne2](./assets/keebs/anne2.jpg)
 
 #### DZ60
-My first DIY keyboard with _Trybosys_ lubed _Gateron Yellows_ with _GMK Noel_.
+My first DIY keyboard with _Trybosys 2303_ lubed _Gateron Yellows_ with _GMK Noel_.
 Whilst not being perfect in the slightest, I'm really proud how it turned out.
 
 ![noel](./assets/keebs/dznoel.jpg)
+
+#### Blade60 Nightmare Purple
+My first tactile board, with which I instantly fell in love with.
+_AKKO Lavender Purple_ lubed with _Trybosys 2303_ and _AKKO Neon Cherry_ caps
+inside of a _Blade 60 Nightmare Purple_.
+
+![blade60](./assets/keebs/blade60.jpg)
 
 * * *
 

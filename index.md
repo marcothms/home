@@ -6,7 +6,6 @@ gaming or building a new mechanical keyboard.
 
 ### Keyboards
 [Here](./keebs.md) I have a collection and some trivia about my keebs.
-Linear switches all the way!
 
 ### Software development
 WIP
