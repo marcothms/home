@@ -1,5 +1,6 @@
 theme: jekyll-theme-minimal
 logo: /assets/logo.png
+favicon: /assets/favicon.png
 title: Marco Thomas
 links:
   github: https://github.com/marcothms
