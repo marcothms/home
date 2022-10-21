@@ -28,16 +28,5 @@ Other languages I can (comfortably) use include Python, C and Haskell.
 
 ## External
 
-### GitHub
-[This]({{ site.links.github }}) is where my code is stored.
-Feel free to check it out!
-
-### Twitter
-Somewhat semi-active on [Twitter]({{ site.links.twitter }}), just DM me here if
-you need something.
-
-### Mail
-WIP
-
-### CV
-WIP
++ [GitHub]({{ site.links.github }})
++ [Mail]({{ site.links.mail }})
